@@ -1,0 +1,19 @@
+{
+  "name": "com.ourpalm.ilruntime",
+  "displayName": "ILRuntime-Fork",
+  "version": "2.0.0-preview.12++",
+  "unity": "2018.1",
+  "description": "ILRuntime的Fork版本，由于官方的包更新不一定及时，所以临时使用",
+  "keywords": [
+    "ILRuntime",
+    "ilrt",
+    "hotfix"
+  ],
+  "author": {
+    "name": "zhangli",
+    "email": "jay.zhang@happyelements.com",
+    "url": "https://github.com/zlot1/ILRuntime"
+  },
+  "category": "Hotfix",
+  "type": "library"
+}
